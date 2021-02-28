@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="positions_array">
+        <item>Gerente</item>
+        <item>Asistente</item>
+        <item>Secretaria</item>
+        <item>Ordenanza</item>
+        <item>Jardinero</item>
+        <item>Motorista</item>
+    </string-array>
+</resources>
